@@ -1,6 +1,6 @@
 # Entity Framework Solution
 
-> A project to store contacts details, emails, and pohne numbers in a databse hosted on SQL server and controlled by Entity framework.
+>  A project to store contacts details, emails, and phone numbers in a database hosted on SQL server which was created and managed by Entity framework. 
 
 ## Languages and Tools
 - C#
